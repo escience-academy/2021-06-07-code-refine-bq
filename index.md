@@ -156,6 +156,9 @@ Modify the block below if there are any special requirements.
     Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on.
   {% endif %}
   They should have a few specific software packages installed (listed <a href="#setup">below</a>).
+
+  <strong>Furthermore we expect participants to have knowledge of git. You can take this <a href="https://forms.office.com/r/iMKg7nxDak">quiz</a> to see if you have the required knowledge of git.
+  If you fail the quiz, we strongly suggest you catch up using one of the following ressources</strong>, <a href="https://coderefinery.github.io/git-intro/">Code Refinery Git lesson</a>, <a href="http://swcarpentry.github.io/git-novice/">Software Carpentry Git lesson</a>
 </p>
 
 {% comment %}
