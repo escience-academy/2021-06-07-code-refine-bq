@@ -10,7 +10,7 @@ language: "en"     # lowercase two-letter ISO language code such as "fr" (see ht
 latitude: "45"        # decimal latitude of workshop venue (use https://www.latlong.net/)
 longitude: "-1"       # decimal longitude of the workshop venue (use https://www.latlong.net)
 humandate: "June 7th - 8th, 2021"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
-humantime: "9:00-16:00"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
+humantime: "9:00-16:00 CEST"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2021-06-07      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2021-06-08        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Sven van der Burg", "Jens Wehner", "Barbara Vreede"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
@@ -239,8 +239,11 @@ Edit the text to match who can attend the workshop. For instance:
 <p id="who-can-attend">
     <strong>Who can attend?:</strong>
     The course is aimed at graduate students and other researchers. It is assumed that participants already write code for
-    their research, but no expertise is required. Some experience in navigating the file tree and editing files in a
-    terminal session is recommended. <strong>Familiarity with Python programming basics is expected.</strong>
+    their research. Some experience in navigating the file tree and editing files in a
+    terminal session is required. <strong>Familiarity with Python programming basics is expected.</strong>
+
+    <strong>Furthermore we expect participants to have knowledge of git. You can take this <a href="https://forms.office.com/r/iMKg7nxDak">quiz</a> to see if you have the required knowledge of git.
+  If you fail the quiz, we strongly suggest you catch up using one of the following ressources</strong>, <a href="https://coderefinery.github.io/git-intro/">Code Refinery Git lesson</a>, <a href="http://swcarpentry.github.io/git-novice/">Software Carpentry Git lesson</a>
 </p>
 
 <hr/>
