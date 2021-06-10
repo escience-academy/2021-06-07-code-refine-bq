@@ -700,6 +700,9 @@ See [the coderefinery instructor guide](https://coderefinery.github.io/modular-t
 
 ## 📚 Resources
 
+* [Documentation](https://coderefinery.github.io/documentation/)
+* [Testing](https://coderefinery.github.io/testing/)
+* [Modular code](https://coderefinery.github.io/modular-type-along/)
 * [post-workshop survey](https://www.surveymonkey.com/r/RMPB3TP)
 * [wikipedia's README page](https://en.wikipedia.org/w/index.php?title=README)
 * [A curated list of awesome readmes](https://github.com/matiassingers/awesome-readme)

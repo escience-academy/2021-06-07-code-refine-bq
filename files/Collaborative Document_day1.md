@@ -583,6 +583,8 @@ def x(file_name, print_columns=False):
 
 
 ## 📚 Resources
+[Github Workflow](https://coderefinery.github.io/git-collaborative/)
+[Documentation](https://coderefinery.github.io/documentation/)
 More workshops by us: [escience-academy.github.io](https://escience-academy.github.io/)
 We will have a workshop on Reproducible Computational Environments Using Containers in September
 Automatically (using keywords) and manually linking a pull request to an issue: https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-issues/linking-a-pull-request-to-an-issue
